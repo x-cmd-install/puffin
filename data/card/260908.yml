@@ -1,0 +1,119 @@
+about:
+  description: "A beautiful terminal dashboard for hledger 💰"
+  license: MIT
+  homepage: 
+  head: 8ef6966
+  archived: false
+  latestVersion: "v3.0.0-rc1"
+  collectedAt: 2026-09-08T02:38:42Z
+timeline:
+  created: 2022-11-01
+  lastCommit: 2026-02-17
+  lastRelease: 2025-05-17
+popularity:
+  star: 570
+  watcher: 3
+  fork: 10
+  release: 20
+  contributor: 1
+  pullRequest: 47
+  issue: 28
+language:
+  Go: 90450
+  Makefile: 507
+totalBytes: 90957
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-10
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-10
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-12
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-13
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 1
+    openIssue: 2
+    commit: 1
+  last720d:
+    since: 2024-09-18
+    release: 6
+    mergedPR: 2
+    openPR: 3
+    closedIssue: 5
+    openIssue: 2
+    commit: 188
+total:
+  release: 20
+  mergedPR: 37
+  openPR: 7
+  closedIssue: 24
+  openIssue: 4
+  commit: 463
+---
+path: /home/runner/.x-repo/github.com/siddhantac/puffin
+collectedAt: 2026-09-08T02:38:43Z
+loc:
+  Go:
+    code: 3276
+    comments: 265
+    blanks: 635
+    files: 41
+  Json:
+    code: 94
+    comments: 0
+    blanks: 0
+    files: 3
+  Makefile:
+    code: 25
+    comments: 0
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 108
+    blanks: 60
+    files: 2
+total:
+  code: 3432
+  comments: 373
+  blanks: 706
+  files: 47
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	puffin_2.1.5_Darwin_arm64.tar.gz	https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_2.1.5_Darwin_arm64.tar.gz	1344104	145
+darwin/amd64	puffin_Darwin_x86_64.tar.gz	https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_Darwin_x86_64.tar.gz	1446849	45
+linux/arm64	puffin_2.1.5_Linux_arm64.tar.gz	https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_2.1.5_Linux_arm64.tar.gz	1256744	145
+linux/amd64	puffin_2.1.5_Linux_x86_64.tar.gz	https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_2.1.5_Linux_x86_64.tar.gz	1345179	45
+win/arm64	puffin_Windows_arm64.zip	https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_Windows_arm64.zip	1424380	45
+win/amd64	puffin_2.1.5_Windows_x86_64.zip	https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_2.1.5_Windows_x86_64.zip	1430513	45
