@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.0.0-rc1"
   latestRelease: "v2.1.5"
   latestPrerelease: "v3.0.0-rc1"
-  collectedAt: 2026-09-09T05:31:04Z
+  collectedAt: 2026-09-09T19:51:37Z
 timeline:
   created: 2022-11-01
   lastCommit: 2026-02-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-04-16
   lastPrerelease: 2025-05-17
 popularity:
-  star: 570
+  star: 569
   watcher: 3
   fork: 10
   release: 20
@@ -84,7 +84,7 @@ total:
   commit: 463
 ---
 path: /home/runner/.x-repo/github.com/siddhantac/puffin
-collectedAt: 2026-09-09T05:31:07Z
+collectedAt: 2026-09-09T19:51:47Z
 loc:
   Go:
     code: 3276
