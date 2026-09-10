@@ -1,0 +1,77 @@
+- repo: aur
+  srcname: puffin
+  binname: puffin
+  visiblename: puffin
+  version: 2.1.5
+  origversion: 2.1.5-1
+  status: newest
+  summary: TUI for hledger to manage personal finances
+  maintainers:
+    - alerque@aur
+- repo: aur
+  srcname: puffin-bin
+  binname: puffin-bin
+  visiblename: puffin-bin
+  version: 2.1.5
+  origversion: 2.1.5-1
+  status: newest
+  summary: TUI for hledger to manage personal finances
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: puffin
+  visiblename: puffin
+  version: 2.1.1
+  origversion: null
+  status: outdated
+  summary: Beautiful terminal dashboard for hledger
+  maintainers:
+    - smol.ivan97@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: puffin
+  visiblename: puffin
+  version: 2.1.5
+  origversion: null
+  status: newest
+  summary: Beautiful terminal dashboard for hledger
+  maintainers:
+    - smol.ivan97@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: puffin
+  visiblename: puffin
+  version: 2.1.5
+  origversion: null
+  status: newest
+  summary: Beautiful terminal dashboard for hledger
+  maintainers:
+    - smol.ivan97@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: puffin
+  visiblename: puffin
+  version: 2.1.5
+  origversion: null
+  status: newest
+  summary: Beautiful terminal dashboard for hledger
+  maintainers:
+    - smol.ivan97@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: puffin
+  visiblename: puffin
+  version: 2.1.5
+  origversion: null
+  status: newest
+  summary: Beautiful terminal dashboard for hledger
+  maintainers:
+    - smol.ivan97@gmail.com
+  licenses:
+    - MIT
