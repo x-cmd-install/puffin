@@ -20,6 +20,18 @@
     - dominiquini@aur
   licenses:
     - MIT
+- repo: freebsd
+  srcname: lang/puffin
+  binname: puffin
+  visiblename: lang/puffin
+  version: 0.8.1
+  origversion: null
+  status: outdated
+  summary: AWK-derived language with interpreter, AOT and C backends
+  maintainers:
+    - gcw@robottank.one
+  categories:
+    - lang
 - repo: nix_stable_24_11
   srcname: puffin
   visiblename: puffin
