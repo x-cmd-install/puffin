@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 784,
       "digest": null,
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2025-04-16T06:32:48Z",
       "updated_at": "2025-04-16T06:32:48Z",
       "browser_download_url": "https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_2.1.5_checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1345179,
       "digest": null,
-      "download_count": 508,
+      "download_count": 511,
       "created_at": "2025-04-16T06:32:48Z",
       "updated_at": "2025-04-16T06:32:49Z",
       "browser_download_url": "https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_2.1.5_Linux_x86_64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1445821,
       "digest": null,
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2025-04-16T06:33:59Z",
       "updated_at": "2025-04-16T06:33:59Z",
       "browser_download_url": "https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_Linux_x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1550322,
       "digest": null,
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2025-04-16T06:33:59Z",
       "updated_at": "2025-04-16T06:33:59Z",
       "browser_download_url": "https://github.com/siddhantac/puffin/releases/download/v2.1.5/puffin_Windows_x86_64.zip"
